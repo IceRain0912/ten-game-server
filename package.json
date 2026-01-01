@@ -1,5 +1,5 @@
 {
-  "name": "server",
+  "name": "ten-game-server",
   "version": "1.0.0",
   "type": "module",
   "scripts": {
@@ -8,7 +8,6 @@
   "dependencies": {
     "cors": "^2.8.5",
     "express": "^5.2.1",
-    "git": "^0.1.5",
     "socket.io": "^4.8.3"
   }
 }
